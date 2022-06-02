@@ -1,0 +1,40 @@
+Juan Flores
+23
+La Tebaida
+H
+Vicente Rocafuerte
+18
+Barrio Caentral
+H
+Karla Ramón
+24
+Las Pitas
+M
+Diego Noboa
+22
+La Pradera
+H
+Joséfina Urbina
+19
+Pucará
+M
+Francisco Robles
+22
+Juan de Salinas
+H
+Gabriela Moreno
+23
+La Tebaida
+M
+Rosario Carrión
+20
+Barrio Central
+M
+Javier Espinosa
+21
+La Pradera
+H
+Antonieta Borrero
+22
+Las Pitas
+M
